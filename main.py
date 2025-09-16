@@ -9,7 +9,7 @@ st.title("Vizualizimi dhe shfaqja e te dhenave me Streanlit")
 
 # Shembull: Te dhenat te thjeshta
 data = {
-    'Emri': ['Leon','Eron','Jona'],
+    'Emri': ['Leon','Eron','Edi'],
     'Mosha': [15,19,17],
     'Qyteti': ['Prishtine','Prishtine','Prishtine'],
     'Shteti': ['Kosov','Kosov','Kosov']
